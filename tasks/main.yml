@@ -1,0 +1,4 @@
+---
+# tasks file for ansible-role-java
+  - name: Install java jdk 17
+    include_tasks: prepare.yml
